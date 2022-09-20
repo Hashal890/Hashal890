@@ -12,6 +12,8 @@
 
 💼 [Portfolio](https://hashal890.github.io/)
 
+🎇 [Resume](https://drive.google.com/file/d/1eo6ZOSHSIb4brjK1_bmFpCNnZJNWavW6/view?usp=sharing)
+
 
 ## 🌐Socials
 
@@ -28,11 +30,11 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Hashal890&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hashal890&theme=react&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hashal890&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashal890&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hashal890)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hashal890&include_all_commits=true&count_private=true)
 
 
 ### ✍️Random Dev Quote
