@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshal Pardeshi</h1>
-<h3 align="center">I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.</h3>
+<h3 align="center">Forward-looking graduate from the Masai School in Full-stack Web Development. Seek to join the tech industry to develop my technical skills and interpersonal skills. Trained in ReactJS, Node.js, Express.js, MongoDB, and DSA.</h3>
 
 
 🌍 I'm based in Jalgaon, Maharashtra
