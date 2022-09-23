@@ -4,17 +4,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-🌍 I'm based in Jalgaon, Maharashtra
+- 🌍 I'm based in Jalgaon, Maharashtra
 
-🌱 Learning Full Stack Web Development @ Masai School
+- 🌱 Learning Full Stack Web Development @ Masai School
 
-💬 Ask me about Masai School, frontend
+- 💬 Ask me about Masai School, frontend
 
-📫 Contact me at pardeshiharshal90@gmail.com
+- 📫 Contact me at pardeshiharshal90@gmail.com
 
-💼 [Portfolio](https://hashal890.github.io/)
+- 💼 [Portfolio](https://hashal890.github.io/)
 
-🎇 [Resume](https://drive.google.com/file/d/1eo6ZOSHSIb4brjK1_bmFpCNnZJNWavW6/view?usp=sharing)
+- 🎇 Know about my experiences from [Resume](https://drive.google.com/file/d/1eo6ZOSHSIb4brjK1_bmFpCNnZJNWavW6/view?usp=sharing)
 
 
 ## 🌐Socials
