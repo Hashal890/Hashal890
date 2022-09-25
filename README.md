@@ -2,17 +2,15 @@
 
 <h3 align="center">Forward-looking graduate from the Masai School in Full-stack Web Development 🎓. Seek to join the tech industry 💻 to develop my technical skills and interpersonal skills. Trained in ReactJS, Node.js, Express.js, MongoDB, and DSA. 😎</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🌍 I'm based in Jalgaon, Maharashtra
+- 🌍 I'm based in Jalgaon, Maharashtra.
 
-- 🌱 Learning Full Stack Web Development @ Masai School
-
-- 💬 Ask me about Masai School, frontend
+- 🌱 Learning Full Stack Web Development @ Masai School.
 
 - 📫 Contact me at pardeshiharshal90@gmail.com
 
-- 💼 [Portfolio](https://hashal890.github.io/)
+- 💼 Take a look from my [Portfolio](https://hashal890.github.io/)
 
 - 🎇 Know about my experiences from [Resume](https://drive.google.com/file/d/1eo6ZOSHSIb4brjK1_bmFpCNnZJNWavW6/view?usp=sharing)
 
