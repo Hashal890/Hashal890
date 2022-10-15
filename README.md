@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshal Pardeshi</h1>
 
-<h3 align="center">Forward-looking graduate from the Masai School in Full-stack Web Development 🎓. Seek to join the tech industry 💻 to develop my technical skills and interpersonal skills. Trained in ReactJS, Node.js, Express.js, MongoDB, and DSA. 😎</h3>
+<h3 align="center">Forward-looking graduate from the Masai School in Full-stack Web Development 🎓. Seek to join the tech industry 💻 to develop my technical skills and interpersonal skills. Trained in JavaScript, TypeScript, ReactJS, Node.js, Express.js, MongoDB, and DSA. 😎</h3>
 
 <img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
