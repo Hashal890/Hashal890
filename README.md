@@ -49,14 +49,6 @@ src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hashal890&include_all_commits=true&count_private=true)
 
 [![Visitors Count](https://visitcount.itsvg.in/api?id=Hashal890&icon=0&color=12)](https://visitcount.itsvg.in)
-<img
-  alt="followers count"
-  src="https://custom-icon-badges.herokuapp.com/github/followers/Hashal890?style=for-the-badge&logo=person-add&label=Followers&logoColor=white"
-/>
-<img
-  alt="stars count"
-  src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Hashal890"
-/>
 
 <hr/>
 
