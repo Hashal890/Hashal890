@@ -10,7 +10,7 @@
 
 - 👨🏼‍💻 Currently working with **React.JS**, **Redux**, **Chakra UI** & **TypeScript**
 
-- 🌱 Learning **TypeScript**, **Next.JS**, **MongoDB**, **Material UI**
+- 🌱 Learning **TypeScript**, **Next.JS**, **MongoDB**
 
 - 📫 Contact me at pardeshiharshal90@gmail.com
 
@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-      <img aling="left" src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,redux,ts,nextjs,bootstrap,js,html,css," alt="My Skills"/>
+      <img aling="left" src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,redux,ts,nextjs,js,html,css,bootstrap,git,vercel,vscode,netlify,heroku" alt="My Skills"/>
   </a>
 </p>
 
