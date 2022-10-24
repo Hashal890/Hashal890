@@ -23,8 +23,8 @@
 # 💻 Skills & Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-      <img aling="left" src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,redux,ts,nextjs,js,html,css,bootstrap,git,vercel,vscode,netlify,heroku" alt="My Skills"/>
+  <a href="https://skillicons.dev" align="center">
+      <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,redux,ts,nextjs,js,html,css,bootstrap,git,vercel,vscode,netlify,heroku" alt="My Skills"/>
   </a>
 </p>
 
