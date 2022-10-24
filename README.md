@@ -30,7 +30,7 @@ src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120
 <p align="center">
   <a href="https://skillicons.dev" align="center">
     <img
-      src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,redux,ts,nextjs,js,html,css,bootstrap,git,vercel,vscode,netlify,heroku"
+      src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,redux,ts,nextjs,js,html,css,bootstrap"
       alt="My Skills"
     />
   </a>
