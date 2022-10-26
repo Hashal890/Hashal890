@@ -25,7 +25,8 @@ src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120
 
 <hr/>
 
-## 💻 Skills & Tech Stack :
+
+## 💻 Skills :
 
 <p align="center">
   <a href="https://skillicons.dev" align="center">
@@ -38,11 +39,12 @@ src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120
 
 <hr/>
 
+
 ## 📊GitHub Stats :
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Hashal890&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Hashal890&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 
-![Streak Graph](https://github-readme-streak-stats.herokuapp.com/?user=Hashal890&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Streak Graph](https://github-readme-streak-stats.herokuapp.com/?user=Hashal890&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashal890&layout=compact&langs_count=8&theme=react)
 
@@ -52,12 +54,14 @@ src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120
 
 <hr/>
 
+
 ## 🌐Connect me via Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshalpardeshi/) 
 [![Twitter](https://img.shields.io/twitter/follow/harshal258?style=social)](https://twitter.com/harshal258) 
 
 <hr/>
+
 
 ## ✍️Random Dev Quote :
 
