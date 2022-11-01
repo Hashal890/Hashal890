@@ -46,7 +46,7 @@ src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120
 
 ![Streak Graph](https://github-readme-streak-stats.herokuapp.com/?user=Hashal890&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashal890&layout=compact&langs_count=8&theme=react)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashal890&layout=compact&theme=react)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hashal890&include_all_commits=true&count_private=true)
 
@@ -55,10 +55,16 @@ src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120
 <hr/>
 
 
-## 🌐Connect me via Socials ⤵
+## <p align="center">🌐Connect me via Socials ⤵</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshalpardeshi/)
-[![Twitter](https://img.shields.io/twitter/follow/harshal258?style=social)](https://twitter.com/harshal258)
+<div align="center">
+  <a href="https://www.linkedin.com/in/harshalpardeshi/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/harshal258">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</div>
 
 <hr/>
 
