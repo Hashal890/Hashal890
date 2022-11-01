@@ -26,7 +26,7 @@ src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120
 <hr/>
 
 
-## 💻 Skills :
+## <p align="center">💻 Skills ⤵</p>
 
 <p align="center">
   <a href="https://skillicons.dev" align="center">
@@ -40,7 +40,7 @@ src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120
 <hr/>
 
 
-## 📊GitHub Stats :
+## 📊GitHub Stats ⤵
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Hashal890&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -55,14 +55,14 @@ src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120
 <hr/>
 
 
-## 🌐Connect me via Socials
+## 🌐Connect me via Socials ⤵
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshalpardeshi/) 
-[![Twitter](https://img.shields.io/twitter/follow/harshal258?style=social)](https://twitter.com/harshal258) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshalpardeshi/)
+[![Twitter](https://img.shields.io/twitter/follow/harshal258?style=social)](https://twitter.com/harshal258)
 
 <hr/>
 
 
-## ✍️Random Dev Quote :
+## ✍️Random Dev Quote ⤵
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
