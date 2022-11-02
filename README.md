@@ -15,7 +15,7 @@ src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120
 
 - 👨🏼‍💻 Currently working with **React.JS**, **Redux**, **Chakra UI** & **TypeScript**
 
-- 🌱 Learning **TypeScript**, **Next.JS**, **MongoDB**
+- 🌱 Learning **TypeScript**, **Next.JS**, **MongoDB**, **AWS**
 
 - 📫 Contact me at pardeshiharshal90@gmail.com
 
@@ -31,7 +31,7 @@ src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120
 <p align="center">
   <a href="https://skillicons.dev" align="center">
     <img
-      src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,redux,ts,nextjs,js,html,css,bootstrap"
+      src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,redux,ts,nextjs,aws,js,html,css,bootstrap"
       alt="My Skills"
     />
   </a>
