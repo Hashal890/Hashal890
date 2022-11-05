@@ -2,7 +2,9 @@
 
 <h3 align="center">Forward-looking graduate seeking to join the tech industry 💻 to develop technical and interpersonal skills. Trained in JavaScript, TypeScript, ReactJS, Node.js, Express.js, MongoDB, and DSA. 😎</h3>
 
+
 <br />
+
 
 <img
   align="right"
@@ -23,6 +25,7 @@ src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120
 
 - 🎇 Know about my experiences from [Resume](https://drive.google.com/file/d/1eo6ZOSHSIb4brjK1_bmFpCNnZJNWavW6/view?usp=sharing)
 
+
 <hr/>
 
 
@@ -36,6 +39,7 @@ src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120
     />
   </a>
 </p>
+
 
 <hr/>
 
@@ -52,6 +56,7 @@ src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120
 
 [![Visitors Count](https://visitcount.itsvg.in/api?id=Hashal890&icon=0&color=12)](https://visitcount.itsvg.in)
 
+
 <hr/>
 
 
@@ -65,6 +70,7 @@ src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </div>
+
 
 <hr/>
 
