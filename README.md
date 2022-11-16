@@ -29,7 +29,7 @@ src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120
 <hr/>
 
 
-<h3 align="center">💻 Skills ⤵</h3>
+<h3 align="center">Skills ⤵</h3>
 
 <p align="center">
   <a href="https://skillicons.dev" align="center">
@@ -44,7 +44,7 @@ src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120
 <hr/>
 
 
-<h3 align="center">📊GitHub Stats ⤵</h3>
+<h3 align="center">GitHub Stats ⤵</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hashal890&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Github Stats" />
@@ -64,14 +64,17 @@ src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120
 <hr/>
 
 
-<h3 align="center">🌐Connect me via Socials ⤵</h3>
+<h3 align="center">Connect me via Socials ⤵</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/harshalpardeshi/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://twitter.com/harshal258">
+  <a href="https://twitter.com/harshal258" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://www.instagram.com/harshalpardeshi_hp" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </div>
 
@@ -79,7 +82,7 @@ src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120
 <hr/>
 
 
-<h3 align="center">✍️Random Dev Quote ⤵</h3>
+<h3 align="center">✍Random Dev Quote ⤵</h3>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
