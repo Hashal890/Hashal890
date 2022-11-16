@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Harshal Pardeshi</h1>
+<h1 align="center">
+  Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="33">
+  I'm Harshal Pardeshi
+</h1>
 
 <h3 align="center">Forward-looking graduate seeking to join the tech industry 💻 to develop technical and interpersonal skills. Trained in JavaScript, TypeScript, ReactJS, Node.js, Express.js, MongoDB, and DSA. 😎</h3>
 
