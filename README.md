@@ -29,7 +29,7 @@ src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120
 <hr/>
 
 
-## <p align="center">💻 Skills ⤵</p>
+<h3 align="center">💻 Skills ⤵</h3>
 
 <p align="center">
   <a href="https://skillicons.dev" align="center">
@@ -44,7 +44,7 @@ src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120
 <hr/>
 
 
-## 📊GitHub Stats ⤵
+<h3 align="center">📊GitHub Stats ⤵</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hashal890&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Github Stats" />
@@ -64,7 +64,7 @@ src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120
 <hr/>
 
 
-## <p align="center">🌐Connect me via Socials ⤵</p>
+<h3 align="center">🌐Connect me via Socials ⤵</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/harshalpardeshi/" target="_blank">
@@ -79,6 +79,8 @@ src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120
 <hr/>
 
 
-## ✍️Random Dev Quote ⤵
+<h3 align="center">✍️Random Dev Quote ⤵</h3>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+</div>
