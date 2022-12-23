@@ -88,5 +88,5 @@ src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120
 <h2 align="center">✍Random Dev Quote ⤵</h2>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha" alt="Random Quote" />
 </div>
