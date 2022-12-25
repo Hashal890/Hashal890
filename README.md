@@ -3,7 +3,7 @@
   I'm Harshal Pardeshi
 </h1>
 
-<h3 align="center">Forward-looking graduate seeking to join the tech industry 💻 to develop technical and interpersonal skills. Trained in JavaScript, TypeScript, ReactJS, Node.js, Express.js, MongoDB, and DSA. 😎</h3>
+<h3 align="center">Forward-looking graduate seeking to join the tech industry 💻 to develop technical and interpersonal skills. Trained in JavaScript, TypeScript, React.JS, Redux, Node.JS, Express.JS, Next.JS, MongoDB, and DSA. 😎</h3>
 
 
 <br />
@@ -18,7 +18,7 @@ src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120
 
 - 🌍 I'm based in Jalgaon, Maharashtra.
 
-- 👨🏼‍💻 Currently working with **React.JS**, **Redux**, **Chakra UI** & **TypeScript**
+- 👨🏼‍💻 Currently working with **React.JS**, **Redux**, **Chakra UI**, **JavaScript** & **TypeScript**
 
 - 🌱 Learning **TypeScript**, **Next.JS**, **MongoDB**, **AWS**
 
