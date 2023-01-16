@@ -51,7 +51,7 @@ src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hashal890&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Github Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hashal890&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Streak Graph" />
+  <img src="https://streak-stats.demolab.com/?user=Hashal890&theme=tokyonight" alt="Streak Graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashal890&theme=react&layout=compact&langs_count=10" alt="Most Used Languages" />
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hashal890&theme=tokyo-night" alt="GitHub Activity Graph" />
   <img src="https://visitcount.itsvg.in/api?id=Hashal890&icon=0&color=12" alt="Visitors Count" />
