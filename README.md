@@ -1,13 +1,13 @@
 <p>
   Hey developers! 👋 I'm Harshal Pardeshi, a passionate coder and a certified web developer from Masai. 🚀
 
-  With a strong educational background in full-stack web development and a diploma in Mechanical Engineering, I bring a unique blend of technical expertise and     problem-solving skills to the table. 💡
+  With a strong educational background in full-stack web development and a diploma in Mechanical Engineering, I bring a unique blend of technical expertise and problem-solving skills to the table. 💡
 
-  I'm a firm believer in the power of hands-on experience, and that's why I've built multiple projects that showcase my skills and creativity. From dynamic web     applications to intuitive user interfaces, I love bringing ideas to life through clean and efficient code. 💻✨
+  I'm a firm believer in the power of hands-on experience, and that's why I've built multiple projects that showcase my skills and creativity. From dynamic web applications to intuitive user interfaces, I love bringing ideas to life through clean and efficient code. 💻✨
 
-  But my journey doesn't stop at building projects. I'm constantly seeking ways to level up my skills and stay ahead in the ever-evolving tech world. That's why      I'm an avid learner and always excited to dive into online courses that broaden my horizons. 📚
+  But my journey doesn't stop at building projects. I'm constantly seeking ways to level up my skills and stay ahead in the ever-evolving tech world. That's why I'm an avid learner and always excited to dive into online courses that broaden my horizons. 📚
 
-  If you're interested in collaborating on exciting projects or simply want to connect with like-minded developers, I'm all ears! Let's exchange ideas, discuss     the latest trends, and make a positive impact together. 🤝
+  If you're interested in collaborating on exciting projects or simply want to connect with like-minded developers, I'm all ears! Let's exchange ideas, discuss the latest trends, and make a positive impact together. 🤝
 
   Feel free to explore my repositories, contribute to ongoing projects, or reach out for a chat. The coding journey is much more fun when we do it together! 🌟
 </p>
@@ -25,9 +25,9 @@ src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120
 
 - 🌍 I'm based in Jalgaon, Maharashtra.
 
-- 👨🏼‍💻 Currently working with **React.JS**, **Redux**, **Chakra UI**, **JavaScript** & **TypeScript**
+- 👨🏼‍💻 Currently working with **MERN Stacks**, **Redux**, **Chakra UI**, **JavaScript** & **TypeScript**
 
-- 🌱 Learning **TypeScript**, **Next.JS**, **MongoDB**, **AWS**
+- 🌱 Learning **TypeScript**, **Next.JS**, **React Native**, **Vue.JS**
 
 - 📫 Contact me at pardeshiharshal90@gmail.com
 
