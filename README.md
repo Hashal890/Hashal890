@@ -1,5 +1,5 @@
 <p>
-  I'm a passionate coder and a certified web developer from Masai School with 7 months of professional experience in full-stack web development. I also have 2 years of personal project building experience on both
+  I'm a passionate coder and a certified web developer from Masai School with 7 months of professional experience in full-stack web development. I also have 1 year of personal project building experience on both
   frontend and backend. Currently, I'm pursuing my B.Sc. in Computer Science from BITS Pilani.
   
   - 🚀 I'm passionate about building dynamic web applications and intuitive user interfaces.
